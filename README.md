@@ -1,0 +1,1 @@
+# Predikcia-financnej-hodnoty-nehnutelnosti-pomocou-strojoveho-ucenia
